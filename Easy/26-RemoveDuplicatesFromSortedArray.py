@@ -29,5 +29,5 @@ class Solution(object):
 
 nums = [1,1,2]
 solution = Solution()
-result = solution.Solution(nums)
+result = solution.removeDuplicates(nums)
 print(result) 
